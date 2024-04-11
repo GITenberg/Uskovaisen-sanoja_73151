@@ -1,0 +1,46 @@
+_repo: Uskovaisen-sanoja_73151
+_version: 0.0.1
+alternative_title: Paroles d'un croyant. Finnish
+contributor:
+  translator:
+    agent_name: Hagfors, Edvin
+    alias: Hagfors, Edwin
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '45370'
+    url: http://www.gutenberg.org/2009/agents/45370
+    wikipedia: https://fi.wikipedia.org/wiki/Edwin_Hagfors
+creator:
+  author:
+    agent_name: Lamennais, Félicité Robert de
+    aliases:
+    - De Lamennais, Félicité Robert
+    - Lamennais, Felicite Robert de
+    - Lamennais, F. de (Félicité)
+    - Mennais, Félicité Robert de La
+    - Lamennais, Hugues Félicité Robert de
+    birthdate: 1782
+    deathdate: 1854
+    gutenberg_agent_id: '49622'
+    url: http://www.gutenberg.org/2009/agents/49622
+    wikipedia: https://fr.wikipedia.org/wiki/Félicité_Robert_de_Lamennais
+description: ''
+gutenberg_issued: '2024-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73151'
+language: fi
+pgterms:marc905: 20240310010110lamennais
+pgterms:marc906: '1924'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian socialism'
+- !lcc 'HX'
+- GITenberg
+title: Uskovaisen sanoja
+url: http://www.gutenberg.org/ebooks/73151
