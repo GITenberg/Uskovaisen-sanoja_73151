@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '45370'
     url: http://www.gutenberg.org/2009/agents/45370
     wikipedia: https://fi.wikipedia.org/wiki/Edwin_Hagfors
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lamennais, Félicité Robert de
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49622
     wikipedia: https://fr.wikipedia.org/wiki/Félicité_Robert_de_Lamennais
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73151#Uskovaisen-sanoja
 gutenberg_issued: '2024-03-12'
 gutenberg_type: Text
 identifiers:
